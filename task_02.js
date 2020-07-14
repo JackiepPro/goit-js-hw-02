@@ -1,5 +1,3 @@
-//Задание 2 - done
-
 const calculateEngravingPrice = function(message, pricePerWord) {
   // твой код
    let words = message.toLowerCase().split(' ');

@@ -1,18 +1,9 @@
-// Задание 1
-
-// const logItems = function(array) {
-//   // твой код
-//   for (var i = 1; i < array.length; i += 1) {
-//   	console.log(`${[i]} = ${array[i]}`) ;
-//   }
-// };
-
-
-// second option
-const logItems = (array) => {
-	return array
-	.forEach(arr => console.log(arr));
-}
+const logItems = function(array) {
+  // твой код
+  for (let i = 1; i < array.length; i += 1) {
+  	console.log(`${[i]} = ${array[i]}`) ;
+  }
+};
 
 
 //  * Вызовы функции для проверки работоспособности твоей реализации.

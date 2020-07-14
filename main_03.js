@@ -1,5 +1,3 @@
-// Задание 3 - done
-// first option
 const findLongestWord = function(string) {
   // твой код
   let word = string.toLowerCase().split(' ');
@@ -14,19 +12,6 @@ const findLongestWord = function(string) {
   	return longestWord;
   }
 };
-
-// second option
-// const findLongestWord = (string) => {
-// 	string.split(' ').forEach(str => console.log(str));
-
-// 	let longestWord = 0;
-
-// 	if(str.length > longestWord) {
-// 		longestWord = str;
-// 	}
-
-// 	return longestWord;
-// }
 
 //* Вызовы функции для проверки работоспособности твоей реализации.
 console.log(findLongestWord('The quick brown fox jumped over the lazy dog')); // 'jumped'
