@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3fc4fa-38b4-4be6-b5a4-07a41438c160" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/task_01.js" beforeDir="false" afterPath="$PROJECT_DIR$/task_01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_02.js" beforeDir="false" afterPath="$PROJECT_DIR$/task_02.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_04.js" beforeDir="false" />
-    </list>
+    <list default="true" id="4c3fc4fa-38b4-4be6-b5a4-07a41438c160" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task_01.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task_01.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task_01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task_03.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_03.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -51,6 +56,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/task_02.js" />
         <option value="$PROJECT_DIR$/task_01.js" />
+        <option value="$PROJECT_DIR$/main_03.js" />
       </list>
     </option>
   </component>
@@ -116,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594754256299</updated>
-      <workItem from="1594754257403" duration="356000" />
+      <workItem from="1594754257403" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="module 2">
       <created>1594754543174</created>
@@ -125,24 +131,37 @@
       <option name="project" value="LOCAL" />
       <updated>1594754543175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="module 2 fixed">
+      <created>1594754665371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594754665371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="module 2 fixed">
+      <created>1594754738990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594754738990</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356000" />
+    <option name="totallyTimeSpent" value="706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32913166" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Terminal" weight="0.32913166" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
@@ -165,7 +184,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 2" />
+    <MESSAGE value="module 2 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 2 fixed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/task_02.js">
@@ -185,8 +205,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task_01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

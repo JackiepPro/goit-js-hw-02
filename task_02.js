@@ -1,6 +1,4 @@
 const calculateEngravingPrice = function(message, pricePerWord) {
-  // твой код
-   let words = message.toLowerCase().split(' ');
 
     return words.length * pricePerWord;
 };
